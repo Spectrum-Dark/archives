@@ -1,0 +1,16 @@
+#!/bin/bash
+nombre="Jonathan Lopez"
+estudios="Ingenieria en Sistema de la Informacion"
+
+echo "Hola, me llamo $nombre y estoy estudiando $estudios."
+echo ""
+echo "Este es un programa básico que solo muestra información."
+echo ""
+echo "La utilidad de este tipo de programas básicos es poder ejecutar varios comandos, uno detrás de otro."
+echo ""
+echo "Podemos escribir una lista de comandos o llamadas a aplicaciones en orden y el intérprete de comandos o shell se encargará de ejecutarlos uno a uno."
+echo ""
+echo "Muchas gracias por tu atención."
+echo ""
+echo "Un saludo,"
+echo "$nombre."
